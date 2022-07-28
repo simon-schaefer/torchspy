@@ -1,0 +1,9 @@
+*.pyc
+*.egg-info/
+
+# Testing.
+.pytest_cache/
+.benchmarks/
+
+# IDE.
+.idea/
